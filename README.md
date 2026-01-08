@@ -1,5 +1,7 @@
 # ACM_Open_Project_26_ProxyServer
 
+  Drive Link for video and transcript : https://drive.google.com/drive/folders/119iMOvudhWoHmU1cLAHQHjOJbWYzFHa8?usp=drive_link
+
 ## Features
 
 - **HTTP and HTTPS** support using standard HTTP requests and `CONNECT` tunneling.
